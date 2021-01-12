@@ -1,0 +1,7 @@
+tensorflow=(pip install tensorflow)
+keras=(pip install Keras)
+imutils=(pip install imutils)
+numpy=(pip install numpy)
+opencv-python=(pip install opencv-python)
+matplotlib=(pip install matplotlib)
+scipy=(pip install scipy)
